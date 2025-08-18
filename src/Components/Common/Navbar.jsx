@@ -5,7 +5,7 @@ import MobileMenu from './MobileMenu'
 
 const Navbar = () => {
   return (
-    <navbar clasName="relative w-full m-0 p-0">
+    <navbar clasName="relative w-full m-0 p-0 container">
        <img src="../abstractleft.png
        " alt="" />
      <div className='hidden md:flex -top-0 absolute mt-5 bg-gray-900/50 w-auto xl:left-15 left-1 right-4 xl:right-15 items-center text-center justify-between px-6 py-4'>

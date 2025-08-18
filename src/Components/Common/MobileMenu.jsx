@@ -14,7 +14,7 @@ const toggleMenu = () => setMenuOpen(!menuOpen)
 
   return (
    <div className='relative w-full m-0 p-0 '>
-    <div className='md:hidden   justify-between flex items-center    absolute  px-4  -mt-[220px]'>
+    <div className='md:hidden   justify-between flex items-center    absolute  px-4  -mt-[250px]'>
  <img src="../Logo.png" alt="" className=''/>
 
  {/* Hamburger Menu Button */}
