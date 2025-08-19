@@ -6,3 +6,8 @@ body {
 container {
     @apply mx-auto px-4 sm:px-6 lg:px-8 xl:w-[1,596px] md:w-[1220px] sm:w-[950px] w-auto xl:h-[825px] h-auto;
 }
+Background {
+    background: linear-gradient(0deg, #1A1A1A, #1A1A1A),
+linear-gradient(214.85deg, rgba(26, 26, 26, 0) 0%, #1A1A1A 39.72%);
+
+}
